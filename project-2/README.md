@@ -38,5 +38,5 @@ There are five tables in the dataset that I will be using for data preprocessing
   - 'department_id': ID number that uniquely identifies each grocery department category
   - 'department': name of the department
  
-  # Libraries
-  - Pandas
+# Libraries
+- Pandas
