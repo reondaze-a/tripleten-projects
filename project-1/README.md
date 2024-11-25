@@ -1,5 +1,5 @@
 # Basic Python: Project
-[Project Notebook]
+[Project Notebook](https://github.com/reondaze-a/tripleten-projects/blob/main/project-1/basic-project.ipynb)
 
 In this project, I will work with data from the entertainment industry. I'll be studying a dataset with records on movies and shows. The research will focus on the “Golden Age” of television, which began in 1999 with the release of The Sopranos and is still ongoing.
 
