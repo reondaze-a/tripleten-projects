@@ -1,10 +1,10 @@
 # Software Development Tools
-
+[Open Web-app](https://tripleten-sda-project.onrender.com/)
 
 This project aims to provide additional practice on common software engineering tasks. These tasks will augment and complement the data skills I've learned.
 I'll be developing and deploying a web application to a cloud service so that it is accessible to the public.
 
-# Streamlit Project
+## Streamlit Project
 Software Development Tools Project: Pokemon Stats Graph
 
 Hello! This web app was built to see the correlation between Pokemon stats up to Generation 6, based on the types.
@@ -24,5 +24,3 @@ and direct yourself to the repository's directory.  Go to `.streamlit` directory
 
 **Must have streamlit installed on your machine!**
 If you don't you can run the command `pip install streamlit`.
-
-URL to web-app : https://tripleten-sda-project.onrender.com/
