@@ -1,5 +1,6 @@
 # Instacart Project
 [Project Notebook](https://github.com/reondaze-a/tripleten-projects/blob/main/project-2/instacart_project.ipynb)
+
 For this project, I'll be working with data from Instacart. 
 
 Instacart is a grocery delivery platform where customers can place a grocery order and have it delivered to them, similar to how Uber Eats and Door Dash work. This particular dataset was publicly released by Instacart in 2017 for a Kaggle competition. However, since the original dataset was no longer available on the Instacart website, I'll be working on a modified version of the data.
