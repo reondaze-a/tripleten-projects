@@ -40,3 +40,20 @@ There are five tables in the dataset that I will be using for data preprocessing
  
 # Libraries
 - Pandas
+
+# Analysis questions
+These are the questions that I will be working on answering through the data analysis:
+
+
+1. Verify that values in the 'order_hour_of_day' and 'order_dow' columns in the orders table are sensible (i.e. 'order_hour_of_day' ranges from 0 to 23 and 'order_dow' ranges from 0 to 6).
+2. Create a plot that shows how many people place orders for each hour of the day.
+3. Create a plot that shows what day of the week people shop for groceries.
+4. Create a plot that shows how long people wait until placing their next order, and comment on the minimum and maximum values.
+5. Is there a difference in 'order_hour_of_day' distributions on Wednesdays and Saturdays? Plot the histograms for both days on the same plot and describe the differences that you see.
+6. Plot the distribution for the number of orders that customers place (e.g. how many customers placed only 1 order, how many placed only 2, how many only 3, and so on…)
+7. What are the top 20 products that are ordered most frequently (display their id and name)?
+8. How many items do people typically buy in one order? What does the distribution look like?
+9. What are the top 20 items that are reordered most frequently (display their names and product IDs)?
+10. For each product, what proportion of its orders are reorders (create a table with columns for the product ID, product name, and reorder proportion)?
+11. For each customer, what proportion of their products ordered are reorders?
+12. What are the top 20 items that people put in their carts first (display the product IDs, product names, and number of times they were the first item added to the cart)?
