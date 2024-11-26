@@ -41,6 +41,7 @@ There are five tables in the dataset that I will be using for data preprocessing
  
 # Libraries
 - Pandas
+- Matplotlib
 
 # Analysis questions
 These are the questions that I will be working on answering through the data analysis:
