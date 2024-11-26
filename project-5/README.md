@@ -1,4 +1,5 @@
 # Integrated Project 1: Ice
+[Project Notebook](https://github.com/reondaze-a/tripleten-projects/blob/main/project-5/integrated-project-1.ipynb)
 
 In this project I'll be working with data from Ice, an online store that sells video games. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources.
 
