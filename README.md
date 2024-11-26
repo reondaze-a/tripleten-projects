@@ -2,6 +2,8 @@
 
 These are the projects I've worked on during the TripleTen Bootcamp. It includes Basic Python, Data Pre-processing, Statistical Data Analysis, Exploratory Data Analysis, SQL, Machine Learning, Linear Algebra, Integrated Projects, etc.
 
+
+
 #### Project 1: Basic Python : [IMDb votes on "Golden Age" TV Shows.](https://github.com/reondaze-a/tripleten-projects/tree/main/project-1)
 Investigating whether TV Shows released during the "Golden Age" would have higher votes or not.
 
