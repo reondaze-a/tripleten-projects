@@ -16,7 +16,7 @@ Analyzing Instacart's data and preparing a report that gives insight to Instacar
 Selecting the best plan to advertise that brings more revenue based on customers' habits.
 
 ----------------------
-#### Project 4: Software Development Tools : [Streamlit Project][https://github.com/reondaze-a/tripleten-projects/tree/main/project-4)
+#### Project 4: Software Development Tools : [Streamlit Project](https://github.com/reondaze-a/tripleten-projects/tree/main/project-4)
 Creating a web-app using Render that produces statistical graphs.
 
 ----------------------
