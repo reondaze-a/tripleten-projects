@@ -21,4 +21,4 @@ Creating a web-app using Render that produces statistical graphs.
 
 ----------------------
 #### Project 5: Integrated Project 1 : [Ice Gaming Company](https://github.com/reondaze-a/tripleten-projects/tree/main/project-5)
-Establishing a sales campaign on and advertising on video games based on platforms, sales, ratings, etc.
+Establishing an advertising campaign on video games based on platforms, sales, ratings, etc.
