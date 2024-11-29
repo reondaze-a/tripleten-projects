@@ -1,1 +1,1 @@
-# Introductino to Machine Learning: Megaline
+# Intro to Machine Learning: Megaline
