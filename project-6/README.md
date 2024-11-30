@@ -8,7 +8,7 @@ The task is to find patterns in the available information. I'll try to understan
 Working with a database, I'll have to analyze data from competitors and test a hypothesis about the impact of weather on ride frequency.
 
 ## Hypothesis
-- The average duration of rides stay the same on rainy Saturdays.
+- The average duration of rides change on rainy Saturdays.
 
 # Data description
 
