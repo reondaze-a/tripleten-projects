@@ -1,4 +1,5 @@
 # Data Collection and Storage(SQL) : Zuber
+[Project Notebook](https://github.com/reondaze-a/tripleten-projects/blob/main/project-6/zuber.ipynb)
 
 I'll be working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. 
 For the first 2 parts of the project I've used SQL.
