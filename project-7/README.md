@@ -1,5 +1,5 @@
 # Intro to Machine Learning: Megaline
-
+[Link to the Notebook](https://github.com/reondaze-a/tripleten-projects/blob/main/project-7/machine-learning-intro.ipynb)
 ## Introduction
 
 Today I will be doing a project on creating a model for Megaline's customers to recommend the newer plans to the users who still uses their legacy plans. The purpose of this project is to put the new skills learned about Machine Learning to the test.
@@ -17,3 +17,7 @@ Every observation in the dataset contains monthly behavior information about one
  * `mb_used` — Internet traffic used in MB,
  * `is_ultra` — plan for the current month (Ultra - 1, Smart - 0).
 
+## Librariws
+* Pandas
+* Scikit-learn
+* Numpy
