@@ -6,6 +6,9 @@ Today I will be doing a project on creating a model for Megaline's customers to 
 
 Since the pre-processing of the data has been done in the previous chapters, I will go straight to creating the model.
 
+## Goal
+The goal for this project is to develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. I will check the accuracy using the test dataset.  
+
 ## Data description
 Every observation in the dataset contains monthly behavior information about one user. The information given is as follows: 
  * `сalls` — number of calls,
@@ -13,3 +16,4 @@ Every observation in the dataset contains monthly behavior information about one
  * `messages` — number of text messages,
  * `mb_used` — Internet traffic used in MB,
  * `is_ultra` — plan for the current month (Ultra - 1, Smart - 0).
+
