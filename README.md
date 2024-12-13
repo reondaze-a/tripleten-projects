@@ -22,3 +22,11 @@ Creating a web-app using Render that produces statistical graphs.
 ----------------------
 #### Project 5: Integrated Project 1 : [Ice Gaming Company](https://github.com/reondaze-a/tripleten-projects/tree/main/project-5)
 Establishing an advertising campaign on video games based on platforms, sales, ratings, etc.
+
+----------------------
+#### Project 6: Data Collection and Storage(SQL) : [Zuber](https://github.com/reondaze-a/tripleten-projects/tree/main/project-6)
+Parsing data to understand passenger preferences and the impact of external factors on rides.
+
+----------------------
+#### Project 7: Intro to Machine Learning: [Megaline](https://github.com/reondaze-a/tripleten-projects/tree/main/project-7)
+Developing a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. 
