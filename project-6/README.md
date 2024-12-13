@@ -39,3 +39,9 @@ A database with info on taxi rides in Chicago:
   - temperature: temperature when the record was taken
   - description: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
  
+## Libraries
+
+* Pandas
+* Numpy
+* Scipy
+* Matplotlib
