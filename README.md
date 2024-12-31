@@ -30,3 +30,14 @@ Parsing data to understand passenger preferences and the impact of external fact
 ----------------------
 #### Project 7: Intro to Machine Learning: [Megaline](https://github.com/reondaze-a/tripleten-projects/tree/main/project-7)
 Developing a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. 
+
+----------------------
+#### Project 8: Supervised Learning: [Betabank](https://github.com/reondaze-a/tripleten-projects/tree/main/project-8)
+Developing a model that would predict customer's behavior and find a way to maintain existing clients.
+
+----------------------
+#### Project 9: Machine Learning in Business: [OilyGiant](https://github.com/reondaze-a/tripleten-projects/tree/main/project-9)
+Developing a model that would predict and find wells with the best parameters that would lead to the highest profit margins.
+
+----------------------
+#### Project 10: Integrated Project 2: [Zyfra]()
