@@ -18,7 +18,7 @@ Every observation in the dataset contains monthly behavior information about one
  * `mb_used` — Internet traffic used in MB,
  * `is_ultra` — plan for the current month (Ultra - 1, Smart - 0).
 
-## Librariws
+## Libraries
 * Pandas
 * Scikit-learn
 * Numpy
