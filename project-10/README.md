@@ -1,3 +1,3 @@
-# Inegrated Project 2: Zyfra
+# Integrated Project 2: Zyfra
 
 ## Introduction
