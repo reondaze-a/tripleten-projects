@@ -1,6 +1,7 @@
 # Supervised Learning: Beta Bank
 
 ## Introduction
+[Project Notebook](https://github.com/reondaze-a/tripleten-projects/blob/main/project-8/betabank.ipynb)
 
 In this project I will be working with Beta Bank. Beta Bank customers are leaving: little by little, chipping away every month. The bankers figured out it’s cheaper to save the existing customers rather than to attract new ones.
 
